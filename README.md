@@ -5,7 +5,7 @@
 |Master|[![CI](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg)](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml?query=branch%3Amaster)|
 |1.18|[![CI](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml/badge.svg?branch=1.18)](https://github.com/wesnoth/wesnoth/actions/workflows/ci-main.yml?query=branch%3A1.18)|
 
-About
+About 
 =====
 
 **The Battle for Wesnoth** is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. Fight a desperate battle to reclaim the throne of Wesnoth, search for the key to immortality, or take part in any number of other adventures.
